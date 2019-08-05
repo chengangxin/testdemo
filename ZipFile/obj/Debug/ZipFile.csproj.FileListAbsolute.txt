@@ -1,0 +1,5 @@
+E:\MyProjects\ZipFile\ZipFile\bin\Debug\ZipFile.exe
+E:\MyProjects\ZipFile\ZipFile\bin\Debug\ZipFile.pdb
+E:\MyProjects\ZipFile\ZipFile\obj\Debug\ZipFile.exe
+E:\MyProjects\ZipFile\ZipFile\obj\Debug\ZipFile.pdb
+E:\MyProjects\ZipFile\ZipFile\obj\Debug\ZipFile.csprojResolveAssemblyReference.cache
